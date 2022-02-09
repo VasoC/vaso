@@ -1,0 +1,38 @@
+h1{
+    font-size: 30px;
+    width: 459px;
+    color:#FFFFFF;
+}
+.p1{
+    width: 186px;
+    font-size: 14px;
+    color: #D1D1D1;
+}
+.p2{
+    width: 830px;
+    font-size: 22px;
+    color: #D1D1D1;
+}
+span{
+    text-transform: uppercase;
+}
+section{
+    background-color: #0865DE;
+    width: 1440px;
+    height: 743px;
+}
+h2{  
+   font-size: 25px;
+   color: #FFFFFF;
+   width: 141px;
+}
+li{
+    list-style-type: none;
+}
+a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+
+
